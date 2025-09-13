@@ -25,7 +25,7 @@ function About() {
 
           {/* Resume Button */}
           <a
-            href="/skills/Divya_Kulkarni_Resume.pdf"
+            href="https://drive.google.com/file/d/1EemzF0KmRHMOQqJQVffQDL4xy6mHClOs/view?usp=drive_link"
             download
             target="_blank"
             rel="noopener noreferrer"
