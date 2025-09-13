@@ -27,19 +27,21 @@ const Navbar = () => {
     {
       link: 'https://leetcode.com/u/divyask99/',
       icon: (
-        <span className="inline-flex items-center">
+        <span className="inline-flex items-center transition-opacity duration-200 hover:opacity-80">
           <Image
-            src="/skills/LeetCodeblack.svg"
+            src="./skills/LeetCodeblack.svg"
             alt="LeetCode"
             width={20}
             height={20}
+            priority
             className="block dark:hidden"
           />
           <Image
-            src="/skills/LeetCodeWhite.svg"
+            src="./skills/LeetCodeWhite.svg"
             alt="LeetCode"
             width={20}
             height={20}
+            priority
             className="hidden dark:block"
           />
         </span>
