@@ -29,4 +29,4 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js)
 
-Live website: https://divya-kulkarni99.github.io/Divya_Kulkarni_portfolio.github.io/
+Live website: https://divya-kulkarni99.github.io/divya-kulkarni-portfolio/
