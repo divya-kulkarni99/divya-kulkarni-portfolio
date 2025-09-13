@@ -8,9 +8,9 @@ export const metadata: Metadata = {
   title: 'Divya Kulkarni',
   description: 'Portfolio of Divya Kulkarni',
   icons: {
-    icon: './favicon.ico',
-    shortcut: './favicon.ico',
-    apple: './favicon.ico',
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
   },
 };
 
