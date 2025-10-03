@@ -25,7 +25,7 @@ function About() {
 
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1EemzF0KmRHMOQqJQVffQDL4xy6mHClOs/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1n1aAvAMmGllx52kxwQ3r8E9fU0nXXWgH/view?usp=sharing"
             download
             target="_blank"
             rel="noopener noreferrer"
