@@ -6,12 +6,9 @@ export const experience = [
     to: 'Present',
     location: 'CA, USA',
     desc: [
-      'Built and optimized RESTful APIs with Spring Boot and Hibernate, reducing response times by 25% and enabling integration with MySQL and MongoDB.',
-      'Developed Spring Batch jobs for daily financial reconciliations and NAV calculations, saving 20+ manual hours weekly.',
-      'Designed backend modules supporting 2x increase in transaction volume, improving system modularity and scalability.',
-      'Integrated real-time data flows between internal and external systems, enabling timely reporting of 50k+ daily transactions.',
-      'Optimized SQL queries and backend logic, reducing database load by 30% and improving system throughput.',
-      'Implemented JWT-based authentication, securing access for all users of financial modules.',
+     'Improved internal finance API performance by optimizing database queries and adding indexes, reducing response time by 25% and preventing dashboard and reporting delays.',
+     'Secured internal APIs for third-party access by implementing JWT-based stateless authentication with Spring Security, token validation/refresh reducing unauthorized access and enabling scalable service growth.',
+     'Automated daily financial reconciliations and NAV calculations with Spring Batch, processing transactions in steps and handling failures automatically, saving 20+ hours/week and producing accurate reports.'
     ],
     techUsed: [
       'Java',
@@ -30,11 +27,10 @@ export const experience = [
     to: 'Nov 2023',
     location: 'AZ, USA',
     desc: [
-      'Built the Social Trust PR platform with React, Node.js, Express, and TypeScript, integrating REST APIs into interactive and user-friendly front-end components.',
-      'Designed and Developed a 7-step article submission workflow as a dynamic single pop-up, cutting development time from 3 weeks to 7 days and improving editor efficiency.',
-      'Implemented Role-Based Access Control (RBAC) to enforce least-privilege principles, reducing errors and strengthening content security.',
-      'Automated Slack notifications for user onboarding through webhook integration, saving ~60% manual effort and improving operational transparency.',
-      'Developed Google OAuth based authentication to enable secure access for 200+ active clients.',
+      'Built the Social Trust PR platform with React, Node.js, and TypeScript, integrating REST APIs and Google OAuth for secure access for 200+ clients.',
+      'Designed and developed a 7-step article submission workflow as a single dynamic pop-up, cutting development time from 3 weeks to 7 days and improving editor efficiency.'
+      'Implemented Role-Based Access Control (RBAC) by adding database role flags and token-based authorization to enforce least-privilege access, reduce errors, and improve platform security and maintainability.',
+      'Automated real-time user onboarding notifications by integrating Slack webhooks with Customer.io, leveraging backend event triggers, reducing 60% manual effort and ensuring instant leadership visibility.'
     ],
     techUsed: [
       'React',
@@ -52,14 +48,10 @@ export const experience = [
     to: 'Aug 2022',
     location: 'KA, India',
     desc: [
-      'Developed and maintained Spring Boot microservices serving 50,000+ healthcare users monthly with 95% uptime.',
-      'Designed and implemented FHIR/HL7-compliant APIs for EMR interoperability, processing 20k+ patient records daily.',
-      'Built real-time data processing workflows in Java and Node.js, improving throughput by 15% under peak load.',
-      'Optimized SQL queries and database schemas, enhancing performance by 25% for high-traffic modules.',
-      'Developed backend logic for ETL services, reducing healthcare data transformation times by 20%.',
-      'Implemented robust error handling and logging, ensuring consistent and reliable backend operations.',
-      'Integrated third-party APIs, enabling secure and accurate healthcare data exchange.',
-      'Implemented asynchronous processing in Java microservices to reduce EMR update latency by 30%.',
+       'Led backend development for a healthcare analytics platform with 50,000+ monthly users, designing 15+ RESTful services in Spring Boot with 95% uptime and robust error handling to ensure reliability under peak loads.',
+       'Integrated FHIR-compliant APIs for secure Electronic Medical Records (EMR) data sharing, implementing OAuth 2.0 and encryption mechanisms to ensure HIPAA compliance and secure patient data exchange across systems.',
+       'Conducted thorough code reviews, refactoring, and performance optimizations for Java and Spring Boot services, improving response times, reducing technical debt, and accelerating release cycles by 30%.',
+       'Developed an internal code-generation library to auto-generate Java classes from XML specifications, enabling React frontend teams to update UI features without backend recompilation, reducing feature update time by 50% and improving developer efficiency.'
     ],
     techUsed: [
       'Java',
