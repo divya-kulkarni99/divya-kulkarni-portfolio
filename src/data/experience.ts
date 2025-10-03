@@ -6,9 +6,9 @@ export const experience = [
     to: 'Present',
     location: 'CA, USA',
     desc: [
-     'Improved internal finance API performance by optimizing database queries and adding indexes, reducing response time by 25% and preventing dashboard and reporting delays.',
-     'Secured internal APIs for third-party access by implementing JWT-based stateless authentication with Spring Security, token validation/refresh reducing unauthorized access and enabling scalable service growth.',
-     'Automated daily financial reconciliations and NAV calculations with Spring Batch, processing transactions in steps and handling failures automatically, saving 20+ hours/week and producing accurate reports.'
+      'Improved internal finance API performance by optimizing database queries and adding indexes, reducing response time by 25% and preventing dashboard and reporting delays.',
+      'Secured internal APIs for third-party access by implementing JWT-based stateless authentication with Spring Security, token validation/refresh reducing unauthorized access and enabling scalable service growth.',
+      'Automated daily financial reconciliations and NAV calculations with Spring Batch, processing transactions in steps and handling failures automatically, saving 20+ hours/week and producing accurate reports.',
     ],
     techUsed: [
       'Java',
@@ -28,9 +28,9 @@ export const experience = [
     location: 'AZ, USA',
     desc: [
       'Built the Social Trust PR platform with React, Node.js, and TypeScript, integrating REST APIs and Google OAuth for secure access for 200+ clients.',
-      'Designed and developed a 7-step article submission workflow as a single dynamic pop-up, cutting development time from 3 weeks to 7 days and improving editor efficiency.'
+      'Designed and developed a 7-step article submission workflow as a single dynamic pop-up, cutting development time from 3 weeks to 7 days and improving editor efficiency.',
       'Implemented Role-Based Access Control (RBAC) by adding database role flags and token-based authorization to enforce least-privilege access, reduce errors, and improve platform security and maintainability.',
-      'Automated real-time user onboarding notifications by integrating Slack webhooks with Customer.io, leveraging backend event triggers, reducing 60% manual effort and ensuring instant leadership visibility.'
+      'Automated real-time user onboarding notifications by integrating Slack webhooks with Customer.io, leveraging backend event triggers, reducing 60% manual effort and ensuring instant leadership visibility.',
     ],
     techUsed: [
       'React',
@@ -48,10 +48,10 @@ export const experience = [
     to: 'Aug 2022',
     location: 'KA, India',
     desc: [
-       'Led backend development for a healthcare analytics platform with 50,000+ monthly users, designing 15+ RESTful services in Spring Boot with 95% uptime and robust error handling to ensure reliability under peak loads.',
-       'Integrated FHIR-compliant APIs for secure Electronic Medical Records (EMR) data sharing, implementing OAuth 2.0 and encryption mechanisms to ensure HIPAA compliance and secure patient data exchange across systems.',
-       'Conducted thorough code reviews, refactoring, and performance optimizations for Java and Spring Boot services, improving response times, reducing technical debt, and accelerating release cycles by 30%.',
-       'Developed an internal code-generation library to auto-generate Java classes from XML specifications, enabling React frontend teams to update UI features without backend recompilation, reducing feature update time by 50% and improving developer efficiency.'
+      'Led backend development for a healthcare analytics platform with 50,000+ monthly users, designing 15+ RESTful services in Spring Boot with 95% uptime and robust error handling to ensure reliability under peak loads.',
+      'Integrated FHIR-compliant APIs for secure Electronic Medical Records (EMR) data sharing, implementing OAuth 2.0 and encryption mechanisms to ensure HIPAA compliance and secure patient data exchange across systems.',
+      'Conducted thorough code reviews, refactoring, and performance optimizations for Java and Spring Boot services, improving response times, reducing technical debt, and accelerating release cycles by 30%.',
+      'Developed an internal code-generation library to auto-generate Java classes from XML specifications, enabling React frontend teams to update UI features without backend recompilation, reducing feature update time by 50% and improving developer efficiency.',
     ],
     techUsed: [
       'Java',
